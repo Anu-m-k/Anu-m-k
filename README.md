@@ -1,6 +1,7 @@
+
 <h1 align="center">Hi 👋, I'm Anu</h1>
 <h3 align="center">A passionate web developer from India</h3>
-<img align="left" width="400" src="https://tenor.com/view/programming-gif-25868426">
+<img src="stylesheet" alt="coding" href="https://tenor.com/view/programming-gif-25868426">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anumk&label=Profile%20views&color=0e75b6&style=flat" alt="anumk" /> </p>
 
